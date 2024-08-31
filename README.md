@@ -1,4 +1,15 @@
-### This is a personal portfolio website built using React and Tailwind CSS. It showcases my skills, experience, and projects in a visually appealing and responsive manner.
+#### This is a personal portfolio website built using React and Tailwind CSS. It showcases my skills, experience, and projects in a visually appealing and responsive manner.
+
+#### Key Features:
+
+- React Components: The project is structured using React components for modularity and reusability.
+- Tailwind CSS: Tailwind CSS provides a utility-first approach to styling, allowing for rapid development and customization.
+- Responsive Design: The website is designed to adapt seamlessly to different screen sizes.
+
+ #### Technologies Used:
+
+- React
+- Tailwind CSS
 
 # Getting Started with Create React App
 
@@ -72,15 +83,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### Key Features:
 
-- React Components: The project is structured using React components for modularity and reusability.
-- Tailwind CSS: Tailwind CSS provides a utility-first approach to styling, allowing for rapid development and customization.
-- Responsive Design: The website is designed to adapt seamlessly to different screen sizes.
-[List of Additional Features]
-Technologies Used:
 
-React
-Tailwind CSS
 
 
